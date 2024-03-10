@@ -2,7 +2,7 @@
 
 int main() {
     int num = 10;
-    int result = num / 3;
-    printf("Result: %d \n", result);
+    float result = (float)num / 3;
+    printf("Result: %.2f\n", result);
     return 0;
 }
