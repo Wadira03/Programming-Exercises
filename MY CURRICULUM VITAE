@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY CURRICULUM VITAE</title>
+</head>
+<body style="background-color:khaki;">
+ <p><b>Chelsea Wadira</b></p>
+ <address>
+ P.O BOX 454-0001.<br>
+ Nairobi, Kenya<br>
+ +254 795 984537<br>
+ chelsea.wadira@students.jkuat.ac.ke<br>
+ </address>
+ <h2 style="color:soft pink; text-decoration: underline;"> Personal Details </h2>
+ <h3 style="color:soft pink; text-decoration: underline;"> Personal Statement</h3>
+ <p> A highly motivated and ready to learn personal, with a great track proven skills in achieving the best.<br> My weakness is that I always try to be the best in the things that I do.</p>
+ <h3 style="color:soft pink; text-decoration: underline;">Education</h3>
+ <ul>
+ <li>2023 upto date: Bachelor's degree in Civil engineering<br> University: Jomo Kenyatta University of Science and Technology</li>
+ <li> 2019-2022: Kenya National Certificate of Secondary Education <br> School: Moi Girl's Eldoret<br> Grade: A plain</li>
+ <li> 2009-2018: Kenya National Certificate of Primary Education <br> School: St Joseph's Ombo Primary School <br> Total Marks:413
+.</li>
+ </ul>
+ <h2 style="color:soft pink; text-decoration: underline;"> Work Experience </h2>
+  <p> Cyber assisant at SmartTech Cyber from December 2022 to September 2023.<br> My key responsibilities was to take care of the computers to check they functionality, cleanliness and updated softwares. <br> Achievements: During my stay there i was able to make sure that the computers were in good condition for proper customer satisfactions.</p>
+  <h2 style="color:soft pink; text-decoration: underline;">Skills</h2>
+  <p> My main skills are analysis, interpretatation and drawing which is important in my field of study. Well versed in Microsoft Office applications such as Microsoft word, Microsoft Excel and Microsoft Powerpoint. Also I have prowess in programming languages such as C and HTML. In addition I have strong problem solving abilities.</p>
+  <h2 style="color:soft pink; text-decoration: underline;">languages </h2>
+  <p> Well versed with the following:</p>
+  <ul>
+    <li>English</li>
+    <li>Kiswahili</li>
+    <li>French</li>
+  </ul>
+  <h2 style=" text-decoration: underline; color:soft pink; ">Interests and Hobbies</h2>
+  <ul>
+    <li> Chess</li>
+    <li> Singing</li>
+    <li> Football</li>
+    <li> Swimming</li>
+  </ul>
+  <h2 style="color:soft pink; text-decoration: underline;">References</h2>
+  <address>
+    Mrs Grace Odipo Deputy Principal Academics,<br>
+     Moi Girls Eldoret, <br>
+    P.O BOX 23, <br>
+    Eldoret.<br>
+    <p style="font-weight: bold; text-decoration: underline;">+254 724 837591.</p>
+  </address>
+  <address>
+    Mr John Oreri  Head Teacher, <br>
+    Ombei Primary School, <br>
+    P.O BOX 453, <br>
+    Karachuonyo. <br>
+     <p style="font-weight: bold; text-decoration: underline;">+254 757818994.</p>
+  </address>
+</body>
+</html>
